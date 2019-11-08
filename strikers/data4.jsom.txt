@@ -1,0 +1,7 @@
+{
+ "strikers":
+  [
+   {"name":"ter","club":"qwe"},
+   {"name":"yui","club":"wer"}	
+  ]
+}

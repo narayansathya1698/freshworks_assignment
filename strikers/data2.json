@@ -1,0 +1,12 @@
+{
+ "strikers":
+  [
+   {"name":"ter","club":"qwe"},
+   {"name":"yui","club":"wer"}	
+  ],
+ "employee":
+  [
+   {"name":"abc","office":"wer"},
+   {"name":"def","office":"wer"}	
+  ]
+}
